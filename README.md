@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hi there 👋
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvoMajic&show_icons=true&count_private=true&hide=stars&theme=merko)
+
+### Where to find me
+
+<p>
+  <a href="https://github.com/IvoMajic" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/ivomajic" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 <!--
 **IvoMajic/IvoMajic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
