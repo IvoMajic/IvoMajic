@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvoMajic&show_icons=true&count_private=true&hide=stars&theme=default&hide_border=true&title_color=BC3B1B&icon_color=BC3B1B)
+![Anurag's GitHub stats](https://githubstats.adhocracy.dev/?username=IvoMajic&show_icons=true&hide=stars&theme=default&hide_border=true&title_color=0CBFB3&icon_color=0CBFB3)
 
 ### Where to find me
 
