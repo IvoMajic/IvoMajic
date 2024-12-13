@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://githubstats.adhocracy.dev/?username=IvoMajic&show_icons=true&hide=stars&theme=default&hide_border=true&title_color=0CBFB4&icon_color=0CBFB4)
+![Anurag's GitHub stats](https://githubstats.majic.dev/?username=IvoMajic&show_icons=true&hide=stars&theme=default&hide_border=true&title_color=0CBFB4&icon_color=0CBFB4)
 
 ### Where to find me
 
